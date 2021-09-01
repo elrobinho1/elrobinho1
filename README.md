@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @elrobinho1
 - 👀 I’m interested in data science, machine learnibg and AI
 - 🌱 I’m currently learning computer engineering
-- 💞️ I’m looking to collaborate on improving and devloping new skills
+- 💞️ I’m looking to collaborate on improving and developing new skills
 - 📫 You can reach me via my email which is made public on my profile
 
 <!---
